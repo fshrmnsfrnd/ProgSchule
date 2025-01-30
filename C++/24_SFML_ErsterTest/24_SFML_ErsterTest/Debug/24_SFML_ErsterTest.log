@@ -1,0 +1,4 @@
+﻿  SFML_Main.cpp
+C:\Users\root\source\repos\24_SFML_ErsterTest\24_SFML_ErsterTest\SFML_Main.cpp(10,48): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\root\source\repos\24_SFML_ErsterTest\24_SFML_ErsterTest\SFML_Main.cpp(10,35): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+  24_SFML_ErsterTest.vcxproj -> C:\Users\root\source\repos\24_SFML_ErsterTest\Debug\24_SFML_ErsterTest.exe

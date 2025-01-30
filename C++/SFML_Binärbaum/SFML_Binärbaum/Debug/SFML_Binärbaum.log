@@ -1,0 +1,3 @@
+﻿  SFML_Main.cpp
+C:\Users\root\source\repos\SFML_Binärbaum\SFML_Binärbaum\SFML_Main.cpp(21,51): warning C4244: "Argument": Konvertierung von "size_t" in "float", möglicher Datenverlust
+  SFML_Binärbaum.vcxproj -> C:\Users\root\source\repos\SFML_Binärbaum\Debug\SFML_Binärbaum.exe
