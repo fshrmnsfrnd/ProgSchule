@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Angestellter
+comment1.params=persnr\ name\ gehalt
+comment1.target=Angestellter(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getGehalt()
+numComments=3
