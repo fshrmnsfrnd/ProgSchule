@@ -22,9 +22,6 @@ public class Buch implements IstWertvoll, HatTitel
         this.autor = autor;
     }
 
-
-    
-
     public String getAutor()
     {
         return autor;

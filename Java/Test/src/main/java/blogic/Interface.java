@@ -10,7 +10,11 @@ package blogic;
  */
 public interface Interface {
     public int i = 0;
-    private int func(){
-        return 0;
-    };
+    
+    public int func();
+    
+    default int dfunc(){
+        return 3;
+    }
+    
 }
