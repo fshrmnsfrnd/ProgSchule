@@ -8,13 +8,16 @@ package blogic;
  *
  * @author Nico
  */
-public class Klasse implements Interface{
+public abstract class Klasse implements Interface{
+        Interface i;
+    
         public static int number(){
          return 5;
         }
         
-        
-        public int func(int a){
-            return a;
+        public int func(){
+            return 0;
         }
+        
+        public abstract int afunc();
 }
