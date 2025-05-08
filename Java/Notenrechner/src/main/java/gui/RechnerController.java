@@ -28,7 +28,12 @@ public class RechnerController{
     private Button calculateBtn;
     
     @FXML
-    private void triggerCalculateGrade(MouseEvent event) {
+    private void triggerCalculateGrade(MouseEvent event){
+        float max = maxPointsField.getValue();
+        float curr = currPointsField.getValue();
+        if(curr > max){
+            currPointsField.getValueFactory().setValue((Integer) Math.round(max));
+        }
         calculateBtn.fire();
     }
     
