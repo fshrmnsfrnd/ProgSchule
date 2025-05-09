@@ -57,16 +57,12 @@ public class ZeichenprogrammController{
         double width = xEnd - xStart;
         
         if(height < 0){
-            double tmp = yStart;
             yStart = yEnd;
-            yEnd = tmp;
             height = abs(height);
         }
         
         if(width < 0){
-            double tmp = xStart;
             xStart = xEnd;
-            xEnd = tmp;
             width = abs(width);
         }
         

@@ -30,6 +30,6 @@
       </Button>
    </bottom>
    <center>
-      <AnchorPane fx:id="drawPane" onMousePressed="#drawPanePressed" onMouseReleased="#drawPaneReleased" prefHeight="325.0" prefWidth="500.0" BorderPane.alignment="CENTER" />
+      <AnchorPane fx:id="drawPane" onMousePressed="#drawPanePressed" onMouseReleased="#drawPaneReleased" prefHeight="360.0" prefWidth="500.0" BorderPane.alignment="CENTER" />
    </center>
 </BorderPane>
