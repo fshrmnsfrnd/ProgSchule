@@ -34,7 +34,14 @@
 /Java/NotizbuchProjekt/nbproject/private/
 /Java/NotizbuchProjekt/build/
 /Java/RingbuchProjekt/nbproject/private/
+<<<<<<< Updated upstream
 /Java/checkPrimzahl/target/
 /Java/antTest/nbproject/private/
 /Java/primListe/nbproject/private/
 /Java/primListe/build/
+=======
+/Java/Gutscheincodes/nbproject/private/
+/Java/Gutscheincodes/build/
+/Java/GutscheinCodesFXML/target/
+/Java/Gutscheincodes_FXML_Template/target/
+>>>>>>> Stashed changes
