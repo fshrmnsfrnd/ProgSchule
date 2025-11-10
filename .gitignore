@@ -34,6 +34,13 @@
 /Java/NotizbuchProjekt/nbproject/private/
 /Java/NotizbuchProjekt/build/
 /Java/RingbuchProjekt/nbproject/private/
+<<<<<<< Updated upstream
 /Java/StaatenDerErde/target/
 /Java/Staaten/target/
 /Java/JavaFX_Project/target/
+=======
+/Java/Gutscheincodes/nbproject/private/
+/Java/Gutscheincodes/build/
+/Java/GutscheinCodesFXML/target/
+/Java/Gutscheincodes_FXML_Template/target/
+>>>>>>> Stashed changes

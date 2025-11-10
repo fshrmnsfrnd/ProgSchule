@@ -1,5 +1,6 @@
-package gui;
+package blogic.gutscheincodesfxml;
 
+import java.io.IOException;
 import java.net.URL;
 import java.util.LinkedList;
 import java.util.Random;
@@ -10,38 +11,31 @@ import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 
-public class TemplateController implements Initializable{
-    Random generator = new Random();
-    LinkedList<Integer> numbers = new LinkedList<>();
-    
+public class PrimaryController implements Initializable{
+    Random generator = new Random(); // Generator für Zufallszahlen
     @FXML
     private TextField inputTextField;
     @FXML
     private Label outputLabel;
+
+    LinkedList<Integer> numbers = new LinkedList<>();
     
-    private void setNumbers(){
+     @Override
+    public void initialize(URL url, ResourceBundle rb) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    @FXML
+    private void checkIfInRange(ActionEvent event) throws IOException {
         while(numbers.size()<500001){
             numbers.add(generator.nextInt(500001));
         }
-    }
-    
-    @Override
-    public void initialize(URL url, ResourceBundle rb) {
-<<<<<<< Updated upstream
-=======
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
->>>>>>> Stashed changes
-        this.setNumbers();
-    }
-    
-    @FXML
-    public void handleButtonKlick(ActionEvent event){
-        System.out.println("Button geklickt");
-        
         if(numbers.contains(Integer.parseInt(inputTextField.getText()))){
-            outputLabel.setText("Ist drin");
+            outputLabel.setText("Ist enthalten");
         }else{
-            outputLabel.setText("Nicht drin");
+            outputLabel.setText("Ist nicht enthalten");
         }
     }
+
+   
 }
