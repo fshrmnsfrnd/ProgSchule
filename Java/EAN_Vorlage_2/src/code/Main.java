@@ -19,10 +19,11 @@ public class Main {
         String ean = null;
         Scanner scan = new Scanner(System.in);
         
+        boolean done;
         do{
             System.out.print("Bitte EAN eingeben: ");
             ean = scan.nextLine();
-            boolean done = false;
+            done = false;
 
             //Prüfung der EAN mit Fehlerbehandlung
         
