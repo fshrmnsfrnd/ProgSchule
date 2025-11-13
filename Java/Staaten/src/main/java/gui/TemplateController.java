@@ -7,7 +7,10 @@ import javafx.scene.control.TextField;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Collection;
 import java.util.HashMap;
+import java.util.LinkedList;
+
 import javafx.event.ActionEvent;
 
 public class TemplateController{
@@ -22,7 +25,10 @@ public class TemplateController{
 
     public void initialize() {
         ladeDatei();
-        comboBox.getItems().addAll(staaten.keySet());
+        Collection<String> countryIDs = this.staaten.keySet();
+        LinkedList<String> countries = new LinkedList<>(countryIDs);
+        countries.sort(String.CASE_INSENSITIVE_ORDER);
+        comboBox.getItems().addAll(countries);
     }
 
     private void ladeDatei() {
@@ -31,7 +37,7 @@ public class TemplateController{
             while ((zeile = br.readLine()) != null) {
                 String[] teile = zeile.replace("\"", "").split(";");
                 if (teile.length == 2) {
-                    staaten.put(teile[0], teile[1]);
+                    this.staaten.put(teile[0], teile[1]);
                 }
             }
         } catch (IOException e) {
@@ -43,7 +49,7 @@ public class TemplateController{
     private void updateTextField(ActionEvent event) {
         String kuerzel = comboBox.getValue();
             if (kuerzel != null) {
-                textField.setText(staaten.get(kuerzel));
+                textField.setText(this.staaten.get(kuerzel));
             }
     }
 }

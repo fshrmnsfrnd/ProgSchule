@@ -4,6 +4,7 @@
  */
 package gutscheincodes;
 
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Random;
 import java.util.TreeSet;
@@ -27,6 +28,11 @@ public class Main {
         }
 
         System.out.println("Es wurden " + numbers.size() + " Codes erzeugt.");
+        Iterator<Integer> iterator = numbers.descendingIterator();
+        for (int i=0; i<5; i++)
+        {
+            System.out.println(iterator.next());
+        }
     }
     
 }

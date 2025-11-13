@@ -2,6 +2,7 @@ package blogic.gutscheincodesfxml;
 
 import java.io.IOException;
 import java.net.URL;
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Random;
 import java.util.ResourceBundle;
@@ -21,21 +22,27 @@ public class PrimaryController implements Initializable{
     LinkedList<Integer> numbers = new LinkedList<>();
     
      @Override
-    public void initialize(URL url, ResourceBundle rb) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    public void initialize(URL url, ResourceBundle rb){
+         while(numbers.size()<500001){
+             numbers.add(generator.nextInt(500001));
+         }
+
+         Iterator<Integer> iterator = numbers.iterator();
+         while (iterator.hasNext()){
+             int nextNumber = iterator.next();
+             if(nextNumber >= 1000){
+                 break;
+             }
+             System.out.println(nextNumber);
+         }
     }
 
     @FXML
     private void checkIfInRange(ActionEvent event) throws IOException {
-        while(numbers.size()<500001){
-            numbers.add(generator.nextInt(500001));
-        }
         if(numbers.contains(Integer.parseInt(inputTextField.getText()))){
             outputLabel.setText("Ist enthalten");
         }else{
             outputLabel.setText("Ist nicht enthalten");
         }
     }
-
-   
 }
