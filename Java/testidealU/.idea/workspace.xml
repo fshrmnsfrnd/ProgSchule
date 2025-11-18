@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9e62918-288f-4de1-860b-33baeeb4f352" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Staaten/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Staaten/src/main/java/gui/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Staaten/src/main/java/gui/TemplateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Staaten/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Staaten/src/main/resources/gui/template.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/target/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/target/test-classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/src/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EAN_Vorlage_2/src/code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions_Test/target/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions_Test/target/test-classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/nbactions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Staaten/nbactions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/src/main/java/blogic/gutscheincodesfxml/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/src/main/java/blogic/gutscheincodesfxml/PrimaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/src/main/java/blogic/gutscheincodesfxml/SecondaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/src/main/java/blogic/gutscheincodesfxml/primary.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/src/main/resources/blogic/gutscheincodesfxml/secondary.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/GutscheinCodesFXML-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/classes/blogic/gutscheincodesfxml/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/classes/blogic/gutscheincodesfxml/PrimaryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/classes/blogic/gutscheincodesfxml/SecondaryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/classes/blogic/gutscheincodesfxml/secondary.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/target/test-classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/build/classes/gutscheincodes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes/src/gutscheincodes/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/src/main/java/gui/TemplateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/src/main/java/gui/TemplateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/classes/gui/TemplateController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/classes/gui/TemplateController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/classes/gui/template.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/classes/gui/template.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/test-classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_FXML_Template_Copy/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_FXML_Template_Copy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_FXML_Template_Copy/src/main/java/gui/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_FXML_Template_Copy/src/main/java/gui/TemplateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_FXML_Template_Copy/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_FXML_Template_Copy/src/main/resources/gui/template.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "fshrmnsfrnd"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/fshrmnsfrnd/ProgSchule.git",
+    "accountId": "562cbb62-45e5-44b2-83c5-68af4453ceed"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="34tI1uG1jQWbIqtqaxuW4cxZ1xm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Nico/Documents/Schule/ProgSchule/Java/testidealU/src/Main.java",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9e62918-288f-4de1-860b-33baeeb4f352" name="Changes" comment="" />
+      <created>1762026231892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762026231892</updated>
+      <workItem from="1762026246377" duration="200000" />
+      <workItem from="1762027141577" duration="43000" />
+      <workItem from="1762190747532" duration="4000" />
+      <workItem from="1762448969990" duration="148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
