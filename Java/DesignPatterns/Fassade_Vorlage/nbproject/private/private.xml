@@ -5,12 +5,6 @@
         <group name="Samples UI Programmierung">
             <file>file:/Users/ml/Dropbox/TS-Workspace/PROG_JAVA2/25_Fassade_Vorlage/src/fassade/HomeTheaterFassade.java</file>
         </group>
-        <group>
-            <file>file:/C:/Users/Nico/Documents/Schule/ProgSchule/Java/DesignPatterns/Fassade_Vorlage/src/fassade/HomeTheaterFassade.java</file>
-            <file>file:/C:/Users/Nico/Documents/Schule/ProgSchule/Java/DesignPatterns/Fassade_Vorlage/src/fassade/Amplifier.java</file>
-            <file>file:/C:/Users/Nico/Documents/Schule/ProgSchule/Java/DesignPatterns/Fassade_Vorlage/src/fassade/Tuner.java</file>
-            <file>file:/C:/Users/Nico/Documents/Schule/ProgSchule/Java/DesignPatterns/Fassade_Vorlage/src/fassade/CdPlayer.java</file>
-            <file>file:/C:/Users/Nico/Documents/Schule/ProgSchule/Java/DesignPatterns/Fassade_Vorlage/src/fassade/Screen.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

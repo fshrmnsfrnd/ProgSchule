@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="CENTER" prefHeight="519.0" prefWidth="453.0" spacing="20.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/24" fx:controller="com.example.flugzeugreservierunggui.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <Label text="Maximale Plätze" />
+   <TextField fx:id="maxPlatze" />
+   <Button fx:id="start" mnemonicParsing="false" onAction="#clickStart" text="Start" />
+   <Label text="Aktueller Zustand" />
+   <TextField fx:id="aktuellerZustand" />
+   <Button fx:id="reservieren" mnemonicParsing="false" onAction="#clickReservieren" text="Reservieren" />
+   <Button fx:id="stornieren" mnemonicParsing="false" onAction="#clickStornieren" text="Stornieren" />
+   <Button fx:id="schliessen" mnemonicParsing="false" onAction="#clickSchliessen" text="Schliessen" />
+   <Button fx:id="streichen" mnemonicParsing="false" onAction="#clickStreichen" text="Streichen" />
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Freie Platze" />
+   <TextField fx:id="freiePlatze" />
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Reservierte Platze" />
+   <TextField fx:id="reserviertePlatze" />
+</VBox>
