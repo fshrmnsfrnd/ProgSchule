@@ -14,5 +14,11 @@ public class Main {
         //Beide Verzierungen
         TextDekorierer doubleFeatureText = new Doppeltext(new Verziertext(einfachT));
         System.out.println(doubleFeatureText.getS());
+
+        // Wortzähler
+        //einfachT.setS("In München steht ein Hofrruhaus.");
+        TextDekorierer wortzahlerT = new Wortzahler(einfachT);
+        wortzahlerT.setS("In München steht ein Hofrruhaus.");
+        System.out.println(wortzahlerT.getS());
     }
 }

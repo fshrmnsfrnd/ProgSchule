@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" prefHeight="393.0" prefWidth="283.0" spacing="20.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/24" fx:controller="com.example.observer_textform.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <Label text="Text eingeben:" />
+   <TextField fx:id="txtInput" />
+   <TextField fx:id="txtLatestText" />
+   <TextArea fx:id="txtList" prefHeight="200.0" prefWidth="200.0" />
+   <Button fx:id="btnSave" mnemonicParsing="false" onAction="#onSaveButtonClick" text="Speichern" />
+   <Button fx:id="btnDelete" mnemonicParsing="false" onAction="#onDeleteButtonClick" text="Löschen" />
+</VBox>
