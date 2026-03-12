@@ -3,19 +3,39 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg30_remotecontrol;
+
+import java.util.ArrayList;
 
 /**
  *
  * @author meinhard.lingo
  */
 public class FrmRemoteControl extends javax.swing.JFrame {
+    private ArrayList<Command> onCommands = new ArrayList<>();
+    private ArrayList<Command> offCommands = new ArrayList<>();
+    private Command lastCommand;
 
+    public void addCommand(Command onCommand, Command offCommand) {
+        this.onCommands.add(onCommand);
+        this.offCommands.add(offCommand);
+    }
     /**
      * Creates new form FrmRemoteControl
      */
     public FrmRemoteControl() {
         initComponents();
+
+        Stereo stereo = new Stereo("room1");
+        TV tv = new TV("room1");
+        CeilingFan ceilingFan = new CeilingFan("room2");
+        Hottub hottub = new Hottub();
+        Light light = new Light("room2");
+
+        this.addCommand(new StereoOn(stereo), new StereoOff(stereo));
+        this.addCommand(new TVOn(tv), new TVOff(tv));
+        this.addCommand(new CeilingFanOn(ceilingFan), new CeilingFanOff(ceilingFan));
+        this.addCommand(new HottubOn(hottub), new HottubOff(hottub));
+        this.addCommand(new LightOn(light), new LightOff(light));
     }
 
     /**
@@ -231,46 +251,67 @@ public class FrmRemoteControl extends javax.swing.JFrame {
 
     private void txtCmdOn1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOn1ActionPerformed
         // TODO add your handling code here:
+        this.onCommands.get(0).execute();
+        this.lastCommand = this.onCommands.get(0);
     }//GEN-LAST:event_txtCmdOn1ActionPerformed
-
-    private void txtCmdOn4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOn4ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_txtCmdOn4ActionPerformed
 
     private void txtCmdOn2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOn2ActionPerformed
         // TODO add your handling code here:
+        this.onCommands.get(1).execute();
+        this.lastCommand = this.onCommands.get(1);
     }//GEN-LAST:event_txtCmdOn2ActionPerformed
 
     private void txtCmdOn3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOn3ActionPerformed
         // TODO add your handling code here:
+        this.onCommands.get(2).execute();
+        this.lastCommand = this.onCommands.get(2);
     }//GEN-LAST:event_txtCmdOn3ActionPerformed
+
+    private void txtCmdOn4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOn4ActionPerformed
+        // TODO add your handling code here:
+        this.onCommands.get(3).execute();
+        this.lastCommand = this.onCommands.get(3);
+    }//GEN-LAST:event_txtCmdOn4ActionPerformed
 
     private void txtCmdOn5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOn5ActionPerformed
         // TODO add your handling code here:
+        this.onCommands.get(4).execute();
+        this.lastCommand = this.onCommands.get(4);
     }//GEN-LAST:event_txtCmdOn5ActionPerformed
 
     private void txtCmdOff1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOff1ActionPerformed
         // TODO add your handling code here:
+        this.offCommands.get(0).execute();
+        this.lastCommand = this.offCommands.get(0);
     }//GEN-LAST:event_txtCmdOff1ActionPerformed
 
     private void txtCmdOff2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOff2ActionPerformed
         // TODO add your handling code here:
+        this.offCommands.get(1).execute();
+        this.lastCommand = this.offCommands.get(1);
     }//GEN-LAST:event_txtCmdOff2ActionPerformed
 
     private void txtCmdOff3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOff3ActionPerformed
         // TODO add your handling code here:
+        this.offCommands.get(2).execute();
+        this.lastCommand = this.offCommands.get(2);
     }//GEN-LAST:event_txtCmdOff3ActionPerformed
 
     private void txtCmdOff4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOff4ActionPerformed
         // TODO add your handling code here:
+        this.offCommands.get(3).execute();
+        this.lastCommand = this.offCommands.get(3);
     }//GEN-LAST:event_txtCmdOff4ActionPerformed
 
     private void txtCmdOff5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdOff5ActionPerformed
         // TODO add your handling code here:
+        this.offCommands.get(4).execute();
+        this.lastCommand = this.offCommands.get(4);
     }//GEN-LAST:event_txtCmdOff5ActionPerformed
 
     private void txtCmdUndoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCmdUndoActionPerformed
         // TODO add your handling code here:
+        this.lastCommand.undo();
     }//GEN-LAST:event_txtCmdUndoActionPerformed
 
     /**

@@ -15,7 +15,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        new pkg30_remotecontrol.FrmRemoteControl().setVisible(true);
+        new FrmRemoteControl().setVisible(true);
     }
     
 }
