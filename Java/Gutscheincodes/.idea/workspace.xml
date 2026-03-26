@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cf1d994-0de5-45ca-86a3-28f14a29af2c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/build/classes/blogic/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/build/classes/blogic/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/src/blogic/Auto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Auto/src/blogic/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/build/classes/buecherinterfaces/Buch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/build/classes/buecherinterfaces/HatTitel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/build/classes/buecherinterfaces/IstWertvoll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/build/classes/buecherinterfaces/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/src/buecherinterfaces/Buch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/src/buecherinterfaces/HatTitel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/src/buecherinterfaces/IstWertvoll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_BuecherInterfaces/src/buecherinterfaces/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/src/main/java/blogic/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/target/06_DemoExceptions-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/target/classes/blogic/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_DemoExceptions/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/src/code/EanIntegrityException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/src/code/EanLengthException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/src/code/EanNumericException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/src/code/EanSupport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EAN_Vorlage/src/code/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bankkonto/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bankkonto/src/main/java/blogic/Main/Bankkonto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bankkonto/src/main/java/blogic/Main/Konto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binaerbaum/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binaerbaum/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binaerbaum/src/main/java/gui/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binaerbaum/src/main/java/gui/BinearbaumController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binaerbaum/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binaerbaum/src/main/resources/fxml/Binearbaum.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binearbaum2/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binearbaum2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binearbaum2/src/main/java/gui/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binearbaum2/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binearbaum2/src/main/resources/gui/BinearbaumController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binearbaum2/src/main/resources/gui/binearbaum.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/Angestellter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/Angestellter.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/Angestellter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/Aushilfskraft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/Aushilfskraft.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/Aushilfskraft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/Mitarbeiter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/Mitarbeiter.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/Mitarbeiter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlueJ_Vererbung/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dreieck_Rekursiv/dreieck.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dreieck_Rekursiv/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dreieck_Rekursiv/src/main/java/blogic/Dreieck_Rekursiv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/src/code/EanIntegrityException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/src/code/EanLengthException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/src/code/EanNotNumericException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/src/code/EanSupport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EAN_Vorlage_2/src/code/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions_Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions_Test/src/main/java/blogic/Exceptions_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions_Test/src/main/java/blogic/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions_Test/target/classes/blogic/Exceptions_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions_Test/target/classes/blogic/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions_Test/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions_Test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Project/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Project/src/main/java/gui/fxml_project/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Project/src/main/java/gui/fxml_project/SecondaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Project/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Project/src/main/resources/gui/fxml_project/PrimaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Project/src/main/resources/gui/fxml_project/primary.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Project/src/main/resources/gui/fxml_project/secondary.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Rekursiv_Geldautomat/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Rekursiv_Geldautomat/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Rekursiv_Geldautomat/src/main/java/gui/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Rekursiv_Geldautomat/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Rekursiv_Geldautomat/src/main/resources/gui/TemplateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXML_Rekursiv_Geldautomat/src/main/resources/gui/geldautomat.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Format_Avon/avon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Format_Avon/avonFormated.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Format_Avon/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Format_Avon/src/main/java/blogic/Format_Avon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/src/main/java/blogic/gutscheincodesfxml/PrimaryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GutscheinCodesFXML/src/main/java/blogic/gutscheincodesfxml/PrimaryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GutscheinCodesFXML/src/main/java/blogic/gutscheincodesfxml/primary.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../GutscheinCodesFXML/src/main/resources/blogic/gutscheincodesfxml/primary.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gutscheincodes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gutscheincodes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/src/main/java/gui/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/src/main/java/gui/TemplateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/src/main/resources/gui/template.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/classes/gui/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/classes/gui/TemplateController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/classes/gui/template.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gutscheincodes_FXML_Template/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../History_CSV/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../History_CSV/history.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../History_CSV/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../History_CSV/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../History_CSV/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../History_CSV/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../History_CSV/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../History_CSV/src/history_csv/History_CSV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFXTemplate/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFXTemplate/src/main/java/gui/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFXTemplate/src/main/java/gui/SystemInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFXTemplate/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX_Project/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX_Project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX_Project/src/main/java/gui/javafx_project/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX_Project/src/main/java/gui/javafx_project/SystemInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX_Project/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KennzeichenSort/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KennzeichenSort/src/main/java/blogic/Auto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KennzeichenSort/src/main/java/blogic/KennzeichenSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Klickzahler/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Klickzahler/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Klickzahler/src/main/java/blogic/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Klickzahler/src/main/java/blogic/SystemInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Klickzahler/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notenrechner/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notenrechner/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notenrechner/src/main/java/gui/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notenrechner/src/main/java/gui/RechnerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notenrechner/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notenrechner/src/main/resources/gui/rechner.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotizbuchProjekt/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotizbuchProjekt/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotizbuchProjekt/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotizbuchProjekt/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotizbuchProjekt/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotizbuchProjekt/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotizbuchProjekt/src/notizbuchprojekt/Notizbuch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotizbuchProjekt/src/notizbuchprojekt/NotizbuchProjekt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotizbuchProjekt/src/notizbuchprojekt/Seite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pizza_Abstrakte_Klasse/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pizza_Abstrakte_Klasse/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pizza_Abstrakte_Klasse/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pizza_Abstrakte_Klasse/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pizza_Abstrakte_Klasse/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pizza_Abstrakte_Klasse/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pizza_Abstrakte_Klasse/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pizza_Abstrakte_Klasse/src/bglogic/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler/src/main/java/blogic/Main/ProjectEuler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rekursiv_Exponent/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rekursiv_Exponent/src/main/java/blogic/Rekursiv_Exponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rekursiv_Fakulteat/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rekursiv_Fakulteat/src/main/java/blogic/Rekursiv_Fakulteat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rekursiv_Muenzautomat/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rekursiv_Muenzautomat/src/main/java/blogic/Muenzautomat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rekursiv_Muenzautomat/src/main/java/blogic/Rekursiv_Muenzautomat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Schulverwaltung/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Schulverwaltung/src/main/java/blogic/Lehrkraft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Schulverwaltung/src/main/java/blogic/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Schulverwaltung/src/main/java/blogic/Schuler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Schulverwaltung/src/main/java/blogic/Schulverwaltung.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Schulverwaltung/src/main/java/blogic/Teilzeitschuler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Schulverwaltung/src/main/java/blogic/Vollzeitschuler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slingleton_Kino_Karten/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slingleton_Kino_Karten/src/main/java/blogic/Generator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slingleton_Kino_Karten/src/main/java/blogic/KarteErmeassigt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slingleton_Kino_Karten/src/main/java/blogic/KarteNormal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slingleton_Kino_Karten/src/main/java/blogic/Slingleton_Kino_Karten.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/blogic/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/blogic/Klasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/blogic/Subklass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/java/blogic/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vorwahl_Suche/avon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vorwahl_Suche/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vorwahl_Suche/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vorwahl_Suche/src/main/java/gui/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vorwahl_Suche/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vorwahl_Suche/src/main/resources/gui/PrimaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vorwahl_Suche/src/main/resources/gui/primary.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Widerstandsrechner/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Widerstandsrechner/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Widerstandsrechner/src/main/java/blogic/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Widerstandsrechner/src/main/java/blogic/SystemInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Widerstandsrechner/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/src/main/java/blogic/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/src/main/java/blogic/SystemInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZahlensystemeJavaFX/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/src/main/java/blogic/Zahler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/src/main/java/blogic/ZahlerForm.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/src/main/java/blogic/ZahlerForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/target/classes/blogic/Zahler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/target/classes/blogic/ZahlerForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/target/classes/blogic/ZahlerForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/target/classes/blogic/ZahlerForm$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/target/classes/blogic/ZahlerForm$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/target/classes/blogic/ZahlerForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zahlwerk/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zeichenprogramm/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zeichenprogramm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zeichenprogramm/src/main/java/gui/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zeichenprogramm/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zeichenprogramm/src/main/resources/gui/ZeichenprogrammController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zeichenprogramm/src/main/resources/gui/zeichenprogramm.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zufallszahlen/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zufallszahlen/src/main/java/blogic/Zufallszahlen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bruch_klasse/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bruch_klasse/src/main/java/blogic/Main/Bruch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bruch_klasse/src/main/java/blogic/Main/Bruch_klasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradletest/.gradle/nb-cache/subprojects.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/src/main/java/gui/test_jetbrains_fxml/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/src/main/java/gui/test_jetbrains_fxml/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/src/main/java/gui/test_jetbrains_fxml/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_jetbrains_fxml/src/main/resources/gui/test_jetbrains_fxml/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testidealU/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testidealU/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testidealU/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testidealU/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testidealU/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testidealU/blogic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testidealU/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="35PlJA1WrJzZ0vvmCRmHNjFtg0c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/n.natzer/Documents/ProgSchule/Java/Gutscheincodes&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf1d994-0de5-45ca-86a3-28f14a29af2c" name="Changes" comment="" />
+      <created>1763019512091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763019512091</updated>
+    </task>
+    <servers />
+  </component>
+</project>
